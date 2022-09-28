@@ -56,7 +56,7 @@ namespace TecShop
             // 
             this.label1.Font = new System.Drawing.Font("MS Reference Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(22, 24);
+            this.label1.Location = new System.Drawing.Point(22, 19);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(116, 27);
             this.label1.TabIndex = 0;
@@ -137,7 +137,7 @@ namespace TecShop
             // 
             // txtPrecio
             // 
-            this.txtPrecio.Location = new System.Drawing.Point(232, 259);
+            this.txtPrecio.Location = new System.Drawing.Point(223, 259);
             this.txtPrecio.Name = "txtPrecio";
             this.txtPrecio.Size = new System.Drawing.Size(121, 20);
             this.txtPrecio.TabIndex = 11;
@@ -243,7 +243,7 @@ namespace TecShop
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::TecShop.Properties.Resources._1;
+            this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(513, 633);
             this.Controls.Add(this.rtbFiltro);
             this.Controls.Add(this.btnFiltrar);

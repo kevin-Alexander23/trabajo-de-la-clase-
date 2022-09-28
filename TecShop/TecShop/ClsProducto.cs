@@ -12,9 +12,9 @@ namespace TecShop
         public string NomProducto { get; set; }
         public string descripcion { get; set; }
         public string categoria { get; set; }
-        public string stock { get; set; }
-        public string precioCompra { get; set; }
-        public double PrecioVenta { get; set; }
+        public int stock { get; set; }
+        public int precioCompra { get; set; }
+        public int PrecioVenta { get; set; }
 
 
     }

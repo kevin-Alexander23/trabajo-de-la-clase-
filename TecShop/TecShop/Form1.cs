@@ -20,6 +20,7 @@ namespace TecShop
         public Form1()
         {
             InitializeComponent();
+            idProducto();
         }
 
         public void LimpiarObjetos()
@@ -29,6 +30,26 @@ namespace TecShop
             cbtCategoria.Text = "";
             txtCantidad.Clear();
             txtPrecio.Clear();
+        }
+
+        void idProducto()
+        {
+            int id = 0;
+            txtId.Text = id.ToString();
+            id++;
+        }
+        public void RegistrarProducto()
+        {
+            double PrecioVenta;
+            pdt.idProducto = Convert.ToInt32(txtId.Text);
+            pdt.NomProducto = txtProducto.Text;
+            pdt.descripcion = txtProducto.Text;
+            pdt.categoria = cbtCategoria.Text;
+            pdt.stock = int.Parse(txtCantidad.Text);
+            pdt.precioCompra = Convert.ToInt32(txtPrecio);
+            PrecioVenta 
+
+
         }
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
