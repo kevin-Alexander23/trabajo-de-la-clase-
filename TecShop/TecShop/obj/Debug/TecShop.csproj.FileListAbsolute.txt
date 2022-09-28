@@ -1,0 +1,10 @@
+C:\Users\ALUMNO\source\repos\TecShop\TecShop\bin\Debug\TecShop.exe.config
+C:\Users\ALUMNO\source\repos\TecShop\TecShop\bin\Debug\TecShop.exe
+C:\Users\ALUMNO\source\repos\TecShop\TecShop\bin\Debug\TecShop.pdb
+C:\Users\ALUMNO\source\repos\TecShop\TecShop\obj\Debug\TecShop.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\source\repos\TecShop\TecShop\obj\Debug\TecShop.Form1.resources
+C:\Users\ALUMNO\source\repos\TecShop\TecShop\obj\Debug\TecShop.Properties.Resources.resources
+C:\Users\ALUMNO\source\repos\TecShop\TecShop\obj\Debug\TecShop.csproj.GenerateResource.cache
+C:\Users\ALUMNO\source\repos\TecShop\TecShop\obj\Debug\TecShop.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\source\repos\TecShop\TecShop\obj\Debug\TecShop.exe
+C:\Users\ALUMNO\source\repos\TecShop\TecShop\obj\Debug\TecShop.pdb
